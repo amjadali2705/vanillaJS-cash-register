@@ -4,6 +4,6 @@
 
  # Languages Used
 
- HTML
- CSS
- Java Script 
+ 1. HTML
+ 2. CSS  
+ 3. Java Script 
